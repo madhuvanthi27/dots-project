@@ -1,1 +1,1 @@
-# dots-project
+Drone monitoring and surveillance system
